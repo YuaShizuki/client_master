@@ -5,7 +5,7 @@ from frappe import _
 def get_data():
 	return {
 		"client_master": {
-			"color": "blue",
+			"color": "DarkSlateBlue",
 			"icon": "icon-align-right",
 			"type": "module",
 			"label": _("client_master")
